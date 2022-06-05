@@ -1,1 +1,1 @@
-#  freezingcup.myshopify.com
+freezingcup.myshopify.com
